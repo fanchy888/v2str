@@ -1,2 +1,2 @@
 # v2str
-conver video into txt
+convert video to text
